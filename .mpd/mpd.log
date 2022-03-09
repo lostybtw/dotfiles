@@ -1,0 +1,810 @@
+Jan 20 10:49 : exception: Failed to open '/home/lostancient/.mpd/mpdstate': No such file or directory
+Jan 20 10:49 : config: option 'device' on line 13 was not recognized
+Jan 20 10:49 : update: added /RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3
+Jan 20 10:49 : update: added /Rie Takahashi - Stay Alive[OST ReZero ed2].mp3
+Jan 20 10:49 : update: added /Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3
+Jan 20 10:49 : update: added /Omae Wa Mou (320 kbps).mp3
+Jan 20 10:49 : update: added /Yahan koi nahi (320 kbps).mp3
+Jan 20 10:49 : update: added /Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3
+Jan 20 11:02 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Jan 20 11:07 : player: played "Yahan koi nahi (320 kbps).mp3"
+Jan 20 11:09 : player: played "Omae Wa Mou (320 kbps).mp3"
+Jan 20 11:12 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Jan 20 11:18 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Jan 20 11:22 : player: played "Omae Wa Mou (320 kbps).mp3"
+Jan 20 11:23 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 20 11:23 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 20 11:24 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 20 13:01 : update: added /Galileo Galilei - Aoi Shiori (葵栞).mp3
+Jan 20 13:01 : update: added /Evan King - 20XX.mp3
+Jan 20 13:01 : update: added /Evan King - Vibing in the 20s.mp3
+Jan 20 13:01 : update: added /Lund - Issues.mp3
+Jan 20 13:01 : update: added /Kina - get you the moon (ft. Snow).mp3
+Jan 20 13:01 : update: added /Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3
+Jan 20 13:01 : update: added /Passenger - Let Her Go.mp3
+Jan 20 13:01 : update: added /C418 - Stranger Think.mp3
+Jan 20 13:02 : player: played "Yahan koi nahi (320 kbps).mp3"
+Jan 20 13:06 : player: played "C418 - Stranger Think.mp3"
+Jan 20 13:10 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Jan 20 13:19 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Jan 20 13:22 : player: played "Lund - Issues.mp3"
+Jan 20 13:24 : player: played "Omae Wa Mou (320 kbps).mp3"
+Jan 20 13:25 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 20 13:27 : player: played "RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3"
+Jan 20 13:27 : player: played "Passenger - Let Her Go.mp3"
+Jan 20 15:14 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Jan 20 15:19 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 20 15:27 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 20 15:27 : player: played "Passenger - Let Her Go.mp3"
+Jan 20 15:36 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Jan 20 16:40 : update: added /Melanie Martinez - PLAY DATE.mp3
+Jan 20 16:40 : update: added /Lund - F ck Love.mp3
+Jan 20 16:40 : update: added /powfu - death bed.mp3
+Jan 20 16:45 : player: played "powfu - death bed.mp3"
+Jan 20 16:52 : update: added /The Kid LAROI, Justin Bieber - STAY.mp3
+Jan 20 16:52 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 20 16:52 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 20 16:52 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 20 16:52 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 20 16:52 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 20 16:52 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 20 16:56 : player: played "Lund - F ck Love.mp3"
+Jan 20 16:57 : update: added /Soak - Knock Me Off My Feet.mp3
+Jan 20 16:57 : update: added /Lorne Balfe - Fight Club.mp3
+Jan 20 16:57 : update: added /Advait, Yagvik - Befikar.mp3
+Jan 20 16:59 : update: added /Dream lantern (320 kbps).mp3
+Jan 20 17:00 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Jan 20 19:11 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Jan 20 19:13 : player: played "Dream lantern (320 kbps).mp3"
+Jan 20 19:16 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Jan 20 19:20 : player: played "Soak - Knock Me Off My Feet.mp3"
+Jan 20 19:22 : player: played "Advait, Yagvik - Befikar.mp3"
+Jan 20 19:26 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Jan 20 19:30 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Jan 20 19:32 : player: played "Omae Wa Mou (320 kbps).mp3"
+Jan 20 19:35 : player: played "powfu - death bed.mp3"
+Jan 20 19:40 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 20 19:43 : player: played "Soak - Knock Me Off My Feet.mp3"
+Jan 20 19:47 : player: played "Passenger - Let Her Go.mp3"
+Jan 20 19:49 : player: played "Lorne Balfe - Fight Club.mp3"
+Jan 20 20:47 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Jan 20 21:06 : player: played "RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3"
+Jan 21 09:37 : player: played "powfu - death bed.mp3"
+Jan 21 10:02 : player: played "Soak - Knock Me Off My Feet.mp3"
+Jan 21 10:05 : player: played "Soak - Knock Me Off My Feet.mp3"
+Jan 21 10:07 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Jan 21 10:13 : update: added /Lewis Capaldi - Someone You Loved.mp3
+Jan 21 10:13 : update: added /mxmtoon - prom dress (official video) (320 kbps).mp3
+Jan 21 10:13 : update: added /Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3
+Jan 21 10:20 : update: added /Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3
+Jan 21 10:20 : update: added /Alan Walker - Faded.mp3
+Jan 21 10:20 : update: added /Alan Walker - Darkside (feat. Au_Ra and Tomine Harket).mp3
+Jan 21 10:20 : update: added /Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals).mp3
+Jan 21 10:20 : update: added /Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK (Vertical Video).mp3
+Jan 21 10:20 : update: added /Do It All for You.mp3
+Jan 21 10:20 : update: added /Lily.mp3
+Jan 21 10:20 : update: added /Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3
+Jan 21 10:20 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Jan 21 10:20 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Jan 21 10:20 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Jan 21 10:22 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Jan 21 10:28 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Jan 21 10:32 : player: played "Alan Walker - Faded.mp3"
+Jan 21 15:42 : player: played "Yahan koi nahi (320 kbps).mp3"
+Jan 21 15:56 : update: added /Lost Control.mp3
+Jan 21 15:56 : update: added /Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3
+Jan 21 15:56 : update: added /Tomoki Sakata - Chopin Ballade No. 1 in G minor, Op. 23.mp3
+Jan 22 09:57 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Jan 22 10:02 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Jan 22 17:13 : player: played "Lewis Capaldi - Someone You Loved.mp3"
+Jan 22 17:19 : player: played "Lily.mp3"
+Jan 22 17:25 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Jan 22 17:39 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Jan 24 10:28 : player: played "Advait, Yagvik - Befikar.mp3"
+Jan 24 10:33 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Jan 24 10:39 : player: played "C418 - Stranger Think.mp3"
+Jan 24 10:43 : player: played "Do It All for You.mp3"
+Jan 24 10:50 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Jan 24 10:52 : player: played "powfu - death bed.mp3"
+Jan 24 10:53 : player: played "Lewis Capaldi - Someone You Loved.mp3"
+Jan 24 10:57 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 24 11:02 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 24 11:03 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 24 11:14 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Jan 24 11:20 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Jan 24 11:23 : player: played "Soak - Knock Me Off My Feet.mp3"
+Jan 25 03:59 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Jan 25 11:26 : update: added /RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3
+Jan 25 11:26 : update: added /Rie Takahashi - Stay Alive[OST ReZero ed2].mp3
+Jan 25 11:26 : update: added /Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3
+Jan 25 11:26 : update: added /Omae Wa Mou (320 kbps).mp3
+Jan 25 11:26 : update: added /Yahan koi nahi (320 kbps).mp3
+Jan 25 11:26 : update: added /Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3
+Jan 25 11:26 : update: added /Galileo Galilei - Aoi Shiori (葵栞).mp3
+Jan 25 11:26 : update: added /Evan King - 20XX.mp3
+Jan 25 11:26 : update: added /Evan King - Vibing in the 20s.mp3
+Jan 25 11:26 : update: added /Lund - Issues.mp3
+Jan 25 11:26 : update: added /Kina - get you the moon (ft. Snow).mp3
+Jan 25 11:26 : update: added /Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3
+Jan 25 11:26 : update: added /Passenger - Let Her Go.mp3
+Jan 25 11:26 : update: added /C418 - Stranger Think.mp3
+Jan 25 11:26 : update: added /Melanie Martinez - PLAY DATE.mp3
+Jan 25 11:26 : update: added /Lund - F ck Love.mp3
+Jan 25 11:26 : update: added /powfu - death bed.mp3
+Jan 25 11:26 : update: added /The Kid LAROI, Justin Bieber - STAY.mp3
+Jan 25 11:26 : update: added /Soak - Knock Me Off My Feet.mp3
+Jan 25 11:26 : update: added /Lorne Balfe - Fight Club.mp3
+Jan 25 11:26 : update: added /Advait, Yagvik - Befikar.mp3
+Jan 25 11:26 : update: added /Dream lantern (320 kbps).mp3
+Jan 25 11:26 : update: added /Lewis Capaldi - Someone You Loved.mp3
+Jan 25 11:26 : update: added /mxmtoon - prom dress (official video) (320 kbps).mp3
+Jan 25 11:26 : update: added /Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3
+Jan 25 11:26 : update: added /Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3
+Jan 25 11:26 : update: added /Alan Walker - Faded.mp3
+Jan 25 11:26 : update: added /Alan Walker - Darkside (feat. Au_Ra and Tomine Harket).mp3
+Jan 25 11:26 : update: added /Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals).mp3
+Jan 25 11:26 : update: added /Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK (Vertical Video).mp3
+Jan 25 11:26 : update: added /Do It All for You.mp3
+Jan 25 11:26 : update: added /Lily.mp3
+Jan 25 11:26 : update: added /Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3
+Jan 25 11:26 : update: added /Lost Control.mp3
+Jan 25 11:26 : update: added /Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3
+Jan 25 11:26 : update: added /Tomoki Sakata - Chopin Ballade No. 1 in G minor, Op. 23.mp3
+Jan 25 11:26 : update: added /Mozart - Mozart - Turkish March.mp3
+Jan 25 11:30 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Jan 25 11:33 : player: played "powfu - death bed.mp3"
+Jan 25 11:34 : player: played "powfu - death bed.mp3"
+Jan 25 11:39 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Jan 25 12:16 : player: played "RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3"
+Jan 25 12:19 : player: played "Mozart - Mozart - Turkish March.mp3"
+Jan 25 12:20 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Jan 25 12:25 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Jan 25 12:29 : player: played "mxmtoon - prom dress (official video) (320 kbps).mp3"
+Jan 25 16:50 : player: played "Omae Wa Mou (320 kbps).mp3"
+Jan 25 16:53 : player: played "powfu - death bed.mp3"
+Jan 25 16:57 : player: played "Mozart - Mozart - Turkish March.mp3"
+Jan 25 16:57 : player: played "Lewis Capaldi - Someone You Loved.mp3"
+Jan 25 17:02 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Jan 25 17:06 : player: played "C418 - Stranger Think.mp3"
+Jan 25 17:09 : player: played "Do It All for You.mp3"
+Jan 27 09:03 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Jan 27 09:09 : player: played "C418 - Stranger Think.mp3"
+Jan 27 09:14 : player: played "Do It All for You.mp3"
+Jan 27 09:18 : player: played "Lily.mp3"
+Jan 27 09:23 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Jan 27 09:40 : player: played "Lund - F ck Love.mp3"
+Jan 27 10:25 : player: played "Dream lantern (320 kbps).mp3"
+Jan 27 12:36 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Jan 27 13:12 : player: played "powfu - death bed.mp3"
+Jan 27 13:14 : player: played "Omae Wa Mou (320 kbps).mp3"
+Jan 28 16:01 : update: added /Ludwig Göransson - The Book of Boba Fett.mp3
+Jan 28 16:01 : update: added /Ludwig Göransson - The Mandalorian - Мандалорец.mp3
+Jan 28 16:01 : update: added /Lenny Loops, Hoffy Beats - Caring.mp3
+Jan 28 16:01 : update: added /Billie Eilish - lovely (with Khalid).mp3
+Jan 28 16:01 : update: added /Shiloh Dynasty - I know you so well.mp3
+Jan 28 16:01 : update: added /B.J. Thomas - Raindrops Keep Falling on My Head.mp3
+Jan 28 16:04 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Jan 28 18:01 : player: played "Ludwig Göransson - The Book of Boba Fett.mp3"
+Jan 28 18:07 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Jan 28 18:11 : player: played "Lund - F ck Love.mp3"
+Jan 28 18:14 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Jan 28 18:17 : player: played "powfu - death bed.mp3"
+Jan 28 18:20 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Jan 28 18:25 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Jan 28 18:27 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Jan 31 13:10 : player: played "Yahan koi nahi (320 kbps).mp3"
+Jan 31 17:23 : player: played "Mozart - Mozart - Turkish March.mp3"
+Feb 01 15:49 : player: played "Mozart - Mozart - Turkish March.mp3"
+Feb 01 15:52 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Feb 01 15:55 : player: played "Ludwig Göransson - The Book of Boba Fett.mp3"
+Feb 01 15:57 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 01 16:00 : player: played "powfu - death bed.mp3"
+Feb 01 16:05 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Feb 01 16:07 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Feb 01 16:11 : player: played "Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK (Vertical Video).mp3"
+Feb 01 16:14 : player: played "Lund - Issues.mp3"
+Feb 01 16:17 : player: played "Lily.mp3"
+Feb 01 16:22 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 01 16:26 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 01 16:52 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 01 16:55 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 01 17:00 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Feb 01 17:09 : player: played "RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3"
+Feb 01 17:14 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Feb 01 17:18 : player: played "Lost Control.mp3"
+Feb 01 17:21 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 01 17:44 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 03 10:04 : player: played "Ludwig Göransson - The Book of Boba Fett.mp3"
+Feb 03 11:12 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 03 11:16 : player: played "Lund - F ck Love.mp3"
+Feb 03 11:20 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 03 11:25 : player: played "C418 - Stranger Think.mp3"
+Feb 03 11:28 : player: played "Do It All for You.mp3"
+Feb 03 11:32 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Feb 03 11:43 : player: played "Lily.mp3"
+Feb 03 11:47 : player: played "Lily.mp3"
+Feb 03 21:50 : player: played "Lily.mp3"
+Feb 03 21:54 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Feb 04 10:52 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 04 10:54 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Feb 04 18:07 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Feb 04 18:10 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Feb 04 18:20 : player: played "powfu - death bed.mp3"
+Feb 04 18:26 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Feb 04 18:28 : player: played "Advait, Yagvik - Befikar.mp3"
+Feb 04 18:31 : player: played "Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals).mp3"
+Feb 04 18:35 : player: played "Alan Walker - Darkside (feat. Au_Ra and Tomine Harket).mp3"
+Feb 04 18:39 : player: played "Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK (Vertical Video).mp3"
+Feb 04 18:45 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 04 18:48 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 04 18:55 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 05 10:41 : player: played "C418 - Stranger Think.mp3"
+Feb 05 10:45 : player: played "Do It All for You.mp3"
+Feb 05 10:58 : player: played "Dream lantern (320 kbps).mp3"
+Feb 05 11:02 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 05 11:06 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 05 11:09 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 08 09:57 : player: played "Ludwig Göransson - The Book of Boba Fett.mp3"
+Feb 08 10:00 : player: played "Lund - F ck Love.mp3"
+Feb 08 10:03 : player: played "Lund - Issues.mp3"
+Feb 08 10:08 : exception: Failed to decode /home/lostancient/Music/Shiloh Dynasty - I know you so well.mp3; Failed to open '/home/lostancient/Music/Shiloh Dynasty - I know you so well.mp3': No such file or directory
+Feb 08 10:08 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Feb 08 10:08 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 08 10:08 : exception: Failed to decode /home/lostancient/Music/Shiloh Dynasty - I know you so well.mp3; Failed to open '/home/lostancient/Music/Shiloh Dynasty - I know you so well.mp3': No such file or directory
+Feb 08 10:08 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 08 10:08 : exception: Failed to decode /home/lostancient/Music/Shiloh Dynasty - I know you so well.mp3; Failed to open '/home/lostancient/Music/Shiloh Dynasty - I know you so well.mp3': No such file or directory
+Feb 08 10:11 : player: played "Soak - Knock Me Off My Feet.mp3"
+Feb 08 10:17 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Feb 08 10:21 : player: played "Yahan koi nahi (320 kbps).mp3"
+Feb 08 10:25 : player: played "Passenger - Let Her Go.mp3"
+Feb 08 10:28 : player: played "Evan King - 20XX.mp3"
+Feb 08 10:30 : player: played "Lorne Balfe - Fight Club.mp3"
+Feb 08 10:38 : update: removing Shiloh Dynasty - I know you so well.mp3
+Feb 08 10:38 : update: added /Anohana - Secret Base.mp3
+Feb 08 10:44 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Feb 08 10:47 : player: played "Mozart - Mozart - Turkish March.mp3"
+Feb 08 11:03 : player: played "Tomoki Sakata - Chopin Ballade No. 1 in G minor, Op. 23.mp3"
+Feb 08 11:19 : player: played "RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3"
+Feb 08 11:22 : player: played "Lewis Capaldi - Someone You Loved.mp3"
+Feb 08 11:28 : player: played "Anohana - Secret Base.mp3"
+Feb 09 08:43 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Feb 09 08:46 : player: played "powfu - death bed.mp3"
+Feb 09 08:51 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 09 08:58 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 09 09:11 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 09 10:20 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 09 11:29 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 09 11:35 : player: played "Anohana - Secret Base.mp3"
+Feb 09 11:43 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 09 11:49 : update: added /My Cubicle (320 kbps).mp3
+Feb 09 11:53 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 09 11:55 : player: played "My Cubicle (320 kbps).mp3"
+Feb 09 12:00 : player: played "Yahan koi nahi (320 kbps).mp3"
+Feb 09 12:06 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Feb 09 12:08 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Feb 09 12:17 : player: played "powfu - death bed.mp3"
+Feb 09 12:19 : player: played "My Cubicle (320 kbps).mp3"
+Feb 09 12:22 : player: played "Yahan koi nahi (320 kbps).mp3"
+Feb 09 12:28 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Feb 09 12:32 : player: played "C418 - Stranger Think.mp3"
+Feb 09 12:34 : player: played "Dream lantern (320 kbps).mp3"
+Feb 09 12:38 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 09 12:42 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Feb 09 12:46 : player: played "Lily.mp3"
+Feb 09 13:01 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Feb 09 13:31 : player: played "Tomoki Sakata - Chopin Ballade No. 1 in G minor, Op. 23.mp3"
+Feb 09 13:52 : player: played "RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3"
+Feb 09 13:55 : player: played "Lewis Capaldi - Someone You Loved.mp3"
+Feb 09 14:00 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 09 14:05 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Feb 09 14:12 : player: played "Anohana - Secret Base.mp3"
+Feb 09 14:37 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 09 14:41 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 09 22:39 : player: played "C418 - Stranger Think.mp3"
+Feb 09 22:42 : player: played "Do It All for You.mp3"
+Feb 09 22:44 : player: played "Dream lantern (320 kbps).mp3"
+Feb 09 22:48 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 10 11:18 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 10 11:21 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 10 11:37 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Feb 10 11:40 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Feb 10 12:30 : update: added /Shiloh Dynasty - I know you so well.mp3
+Feb 10 12:30 : update: added /Luke Chappell - Hold On (Visualizer) (320 kbps).mp3
+Feb 10 12:30 : update: added /keshi - just friends.mp3
+Feb 10 12:30 : update: added /Coobie - Always be you (Official lyric video) (320 kbps).mp3
+Feb 10 12:30 : update: added /my bad (320 kbps).mp3
+Feb 10 12:30 : update: added /Daydream (320 kbps).mp3
+Feb 10 12:30 : update: added /Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3
+Feb 10 12:30 : update: added /Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3
+Feb 10 12:30 : player: played "Lily.mp3"
+Feb 10 12:34 : player: played "my bad (320 kbps).mp3"
+Feb 10 12:36 : player: played "My Cubicle (320 kbps).mp3"
+Feb 10 12:39 : player: played "powfu - death bed.mp3"
+Feb 10 12:41 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 10 12:44 : player: played "Soak - Knock Me Off My Feet.mp3"
+Feb 10 12:48 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 10 12:51 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 10 12:53 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 10 12:55 : player: played "Daydream (320 kbps).mp3"
+Feb 10 12:57 : player: played "keshi - just friends.mp3"
+Feb 10 13:02 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Feb 10 13:12 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Feb 10 13:15 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 10 13:23 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 10 14:30 : update: added /'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3
+Feb 10 14:30 : update: added /'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3
+Feb 10 14:30 : update: added /Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3
+Feb 10 14:30 : update: added /Dil Bechara (2020) - Main Tumhara.mp3
+Feb 10 14:35 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Feb 10 14:39 : player: played "'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3"
+Feb 10 14:43 : player: played "Dil Bechara (2020) - Main Tumhara.mp3"
+Feb 10 14:49 : player: played "Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3"
+Feb 10 14:55 : player: played "Anohana - Secret Base.mp3"
+Feb 10 14:57 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Feb 10 15:00 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Feb 10 15:03 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 10 15:06 : player: played "Daydream (320 kbps).mp3"
+Feb 10 15:08 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 10 15:12 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 10 15:14 : player: played "keshi - just friends.mp3"
+Feb 10 15:17 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 10 15:20 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Feb 10 15:23 : player: played "Lily.mp3"
+Feb 10 15:25 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Feb 10 15:28 : player: played "Lund - F ck Love.mp3"
+Feb 10 15:33 : player: played "Lund - Issues.mp3"
+Feb 10 15:36 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 10 15:43 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Feb 10 15:47 : player: played "'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3"
+Feb 10 15:52 : player: played "Dil Bechara (2020) - Main Tumhara.mp3"
+Feb 10 15:58 : player: played "Anohana - Secret Base.mp3"
+Feb 10 16:00 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Feb 10 16:03 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Feb 10 16:07 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 10 16:09 : player: played "Daydream (320 kbps).mp3"
+Feb 10 16:11 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 10 16:15 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 10 16:17 : player: played "keshi - just friends.mp3"
+Feb 10 17:06 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 10 17:54 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 10 22:33 : player: played "Lund - Issues.mp3"
+Feb 10 22:35 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 10 22:38 : player: played "powfu - death bed.mp3"
+Feb 10 22:40 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 10 22:43 : player: played "my bad (320 kbps).mp3"
+Feb 10 22:46 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 10 22:53 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Feb 10 22:57 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 10 23:01 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 11 08:04 : player: played "powfu - death bed.mp3"
+Feb 11 08:06 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 11 08:09 : player: played "my bad (320 kbps).mp3"
+Feb 11 08:14 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Feb 11 10:20 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 11 10:24 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 11 10:26 : player: played "keshi - just friends.mp3"
+Feb 11 11:02 : player: played "Lily.mp3"
+Feb 11 11:05 : player: played "Ludwig Göransson - The Book of Boba Fett.mp3"
+Feb 11 11:07 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Feb 11 11:09 : player: played "My Cubicle (320 kbps).mp3"
+Feb 11 11:12 : player: played "my bad (320 kbps).mp3"
+Feb 11 11:14 : player: played "powfu - death bed.mp3"
+Feb 11 11:16 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 11 11:21 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Feb 11 11:24 : player: played "Mozart - Mozart - Turkish March.mp3"
+Feb 11 12:29 : player: played "Tomoki Sakata - Chopin Ballade No. 1 in G minor, Op. 23.mp3"
+Feb 11 12:35 : player: played "Passenger - Let Her Go.mp3"
+Feb 11 12:40 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Feb 11 12:42 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 11 12:44 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 11 12:47 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 11 12:49 : player: played "keshi - just friends.mp3"
+Feb 11 12:53 : player: played "Lily.mp3"
+Feb 11 12:55 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Feb 11 12:57 : player: played "My Cubicle (320 kbps).mp3"
+Feb 11 13:00 : player: played "my bad (320 kbps).mp3"
+Feb 11 13:03 : player: played "powfu - death bed.mp3"
+Feb 11 14:17 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 11 14:22 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 12 09:13 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Feb 12 09:20 : player: played "Anohana - Secret Base.mp3"
+Feb 12 09:23 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 12 09:26 : player: played "powfu - death bed.mp3"
+Feb 12 09:58 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 12 10:00 : player: played "My Cubicle (320 kbps).mp3"
+Feb 12 10:03 : player: played "my bad (320 kbps).mp3"
+Feb 12 10:06 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Feb 12 10:09 : player: played "Lund - Issues.mp3"
+Feb 12 10:11 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 12 10:15 : player: played "Soak - Knock Me Off My Feet.mp3"
+Feb 12 10:18 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 12 10:22 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 12 10:26 : player: played "C418 - Stranger Think.mp3"
+Feb 12 10:29 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 12 10:34 : player: played "Dil Bechara (2020) - Main Tumhara.mp3"
+Feb 12 10:34 : update: added /Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3
+Feb 12 10:37 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 12 10:41 : player: played "'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3"
+Feb 12 16:18 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 12 16:20 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 12 16:24 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 12 16:26 : player: played "keshi - just friends.mp3"
+Feb 12 16:29 : player: played "powfu - death bed.mp3"
+Feb 12 16:31 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 12 16:34 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Feb 12 16:39 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Feb 12 16:43 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 12 18:03 : output: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Feb 12 18:03 : player: played "Lewis Capaldi - Someone You Loved.mp3"
+Feb 13 11:50 : player: played "Lewis Capaldi - Someone You Loved.mp3"
+Feb 14 11:11 : player: played "powfu - death bed.mp3"
+Feb 14 13:46 : update: added /Zach Sobiech - Clouds.mp3
+Feb 14 13:46 : update: added /Zach Sobiech and Sammy Brown - Sandcastles.mp3
+Feb 14 13:46 : update: added /Zach Sobiech and Sammy Brown - Fix Me Up.mp3
+Feb 14 13:46 : update: added /Alec Benjamin - Let Me Down Slowly.mp3
+Feb 14 13:46 : update: added /Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3
+Feb 14 13:47 : player: played "powfu - death bed.mp3"
+Feb 14 13:49 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 14 13:52 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Feb 14 13:57 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Feb 14 14:01 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 14 14:04 : player: played "Zach Sobiech - Clouds.mp3"
+Feb 14 14:10 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Feb 14 16:01 : player: played "RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3"
+Feb 14 16:05 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Feb 14 16:09 : player: played "Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals).mp3"
+Feb 14 16:12 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 14 16:18 : player: played "Anohana - Secret Base.mp3"
+Feb 14 19:27 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 15 09:53 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 15 09:56 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 15 10:07 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 15 10:09 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 15 10:11 : player: played "keshi - just friends.mp3"
+Feb 15 10:14 : player: played "powfu - death bed.mp3"
+Feb 15 10:16 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 15 10:18 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 15 10:22 : player: played "Zach Sobiech - Clouds.mp3"
+Feb 15 10:25 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Feb 15 10:28 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 15 10:40 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Feb 15 10:48 : player: played "Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3"
+Feb 15 10:51 : player: played "keshi - just friends.mp3"
+Feb 15 10:52 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 15 15:01 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 15 18:08 : update: removing RADWIMPS - スパークル (Sparkle) (Movie Ver.).mp3
+Feb 15 18:08 : update: added /RADWIMPS - Sparkle.mp3
+Feb 15 18:08 : update: added /RADWIMPS - Nandemonaiya (English Ver.).mp3
+Feb 15 18:08 : update: added /Sambomaster - Hajimatteiku Takamatteiku.mp3
+Feb 21 00:21 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 22 10:01 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 22 10:04 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 22 10:06 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 22 10:08 : player: played "Daydream (320 kbps).mp3"
+Feb 22 12:35 : player: played "Sambomaster - Hajimatteiku Takamatteiku.mp3"
+Feb 22 12:35 : player: played "Daydream (320 kbps).mp3"
+Feb 22 12:42 : player: played "'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3"
+Feb 22 13:23 : player: played "Zach Sobiech - Clouds.mp3"
+Feb 23 10:55 : player: played "Yahan koi nahi (320 kbps).mp3"
+Feb 23 11:01 : player: played "Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK (Vertical Video).mp3"
+Feb 23 11:07 : player: played "Anohana - Secret Base.mp3"
+Feb 23 13:30 : player: played "Anohana - Secret Base.mp3"
+Feb 24 08:32 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 24 17:46 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 24 17:51 : player: played "'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3"
+Feb 25 13:19 : update: added /Phir bhi Tumko Chahunga - Sad Version slowed + reverbed + rain+Lofi (128kbps).mp3
+Feb 25 13:19 : update: added /Khamoshiyan - Arijit Singh (Slowed+Reverb+Lofi) Song Indian Lofi (256kbps).mp3
+Feb 25 14:53 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Feb 25 15:24 : player: played "Phir bhi Tumko Chahunga - Sad Version slowed + reverbed + rain+Lofi (128kbps).mp3"
+Feb 25 15:27 : player: played "powfu - death bed.mp3"
+Feb 25 15:29 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 25 15:37 : update: added /wacci - Kirameki.mp3
+Feb 25 18:30 : player: played "wacci - Kirameki.mp3"
+Feb 25 18:33 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 25 18:38 : player: played "wacci - Kirameki.mp3"
+Feb 25 18:41 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 25 18:46 : player: played "Advait, Yagvik - Befikar.mp3"
+Feb 25 18:50 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 25 18:55 : player: played "Anohana - Secret Base.mp3"
+Feb 25 18:58 : player: played "Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3"
+Feb 25 19:05 : player: played "Khamoshiyan - Arijit Singh (Slowed+Reverb+Lofi) Song Indian Lofi (256kbps).mp3"
+Feb 25 19:08 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 25 19:15 : player: played "keshi - just friends.mp3"
+Feb 25 19:20 : player: played "Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3"
+Feb 25 19:23 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 26 08:38 : player: played "Anohana - Secret Base.mp3"
+Feb 26 08:41 : player: played "Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3"
+Feb 26 10:13 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 26 10:18 : player: played "wacci - Kirameki.mp3"
+Feb 26 10:20 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 26 10:27 : player: played "wacci - Kirameki.mp3"
+Feb 26 10:31 : player: played "Sambomaster - Hajimatteiku Takamatteiku.mp3"
+Feb 26 10:34 : player: played "powfu - death bed.mp3"
+Feb 26 10:40 : player: played "RADWIMPS - Nandemonaiya (English Ver.).mp3"
+Feb 26 10:55 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Feb 26 19:23 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 26 19:25 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 26 19:29 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 26 19:31 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 26 19:35 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 26 19:38 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Feb 26 19:40 : player: played "Advait, Yagvik - Befikar.mp3"
+Feb 26 19:43 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Feb 26 19:52 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 27 15:45 : player: played "my bad (320 kbps).mp3"
+Feb 27 17:12 : player: played "powfu - death bed.mp3"
+Feb 27 17:15 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 27 17:15 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Feb 27 17:18 : player: played "my bad (320 kbps).mp3"
+Feb 27 17:20 : player: played "My Cubicle (320 kbps).mp3"
+Feb 27 17:22 : player: played "Omae Wa Mou (320 kbps).mp3"
+Feb 27 17:50 : player: played "Evan King - 20XX.mp3"
+Feb 27 17:52 : player: played "Lorne Balfe - Fight Club.mp3"
+Feb 27 17:58 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Feb 27 18:04 : player: played "RADWIMPS - Nandemonaiya (English Ver.).mp3"
+Feb 27 18:07 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 27 18:12 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Feb 27 18:14 : player: played "keshi - just friends.mp3"
+Feb 27 18:29 : player: played "Anohana - Secret Base.mp3"
+Feb 27 18:32 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 27 18:34 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 27 18:37 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 27 18:42 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 27 18:46 : player: played "C418 - Stranger Think.mp3"
+Feb 27 18:49 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 27 18:53 : player: played "Dil Bechara (2020) - Main Tumhara.mp3"
+Feb 27 18:56 : player: played "Do It All for You.mp3"
+Feb 27 18:58 : player: played "Dream lantern (320 kbps).mp3"
+Feb 27 19:06 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 27 19:06 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 28 08:41 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 28 08:47 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 28 08:50 : player: played "Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3"
+Feb 28 08:52 : player: played "Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3"
+Feb 28 08:54 : player: played "keshi - just friends.mp3"
+Feb 28 08:58 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Feb 28 09:02 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Feb 28 09:05 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Feb 28 09:08 : player: played "Lily.mp3"
+Feb 28 09:11 : player: played "Do It All for You.mp3"
+Feb 28 09:13 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 28 09:15 : player: played "Daydream (320 kbps).mp3"
+Feb 28 09:18 : player: played "Lund - F ck Love.mp3"
+Feb 28 09:21 : update: updating /Lund - F ck Love.mp3
+Feb 28 09:22 : update: updating /'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3
+Feb 28 09:22 : player: played "Lund - F ck Love.mp3"
+Feb 28 09:23 : update: updating /'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3
+Feb 28 09:24 : update: updating /Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3
+Feb 28 09:24 : update: updating /Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3
+Feb 28 09:25 : player: played "Lund - Issues.mp3"
+Feb 28 09:26 : update: updating /Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3
+Feb 28 09:27 : update: updating /Advait, Yagvik - Befikar.mp3
+Feb 28 09:27 : update: updating /Advait, Yagvik - Befikar.mp3
+Feb 28 09:27 : update: updating /Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3
+Feb 28 09:28 : player: played "my bad (320 kbps).mp3"
+Feb 28 09:28 : update: updating /Alan Walker - All Falls Down (feat. Noah Cyrus with Digital Farm Animals).mp3
+Feb 28 09:29 : update: updating /Alan Walker - Darkside (feat. Au_Ra and Tomine Harket).mp3
+Feb 28 09:29 : update: updating /Alan Walker - Different World feat. Sofia Carson, K-391 & CORSAK (Vertical Video).mp3
+Feb 28 09:30 : update: updating /Alan Walker - Faded.mp3
+Feb 28 09:30 : update: updating /Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3
+Feb 28 09:31 : update: updating /Alec Benjamin - Let Me Down Slowly.mp3
+Feb 28 09:31 : update: updating /Anohana - Secret Base.mp3
+Feb 28 09:31 : update: updating /B.J. Thomas - Raindrops Keep Falling on My Head.mp3
+Feb 28 09:32 : update: removing Bag Boy x Trankilo Lo-Fi Remix (Official Visualizer) (320 kbps).mp3
+Feb 28 09:32 : update: added /Bag Boy x Trankilo Lo-Fi Remix.mp3
+Feb 28 09:32 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Feb 28 09:33 : update: updating /Billie Eilish - lovely (with Khalid).mp3
+Feb 28 09:33 : update: updating /Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3
+Feb 28 09:34 : update: updating /C418 - Stranger Think.mp3
+Feb 28 09:34 : update: updating /Coobie - Always be you (Official lyric video) (320 kbps).mp3
+Feb 28 09:34 : update: updating /Daydream (320 kbps).mp3
+Feb 28 09:34 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 28 09:35 : update: updating /Dil Bechara (2020) - Main Tumhara.mp3
+Feb 28 09:36 : update: updating /Sambomaster - Hajimatteiku Takamatteiku.mp3
+Feb 28 09:36 : update: updating /Do It All for You.mp3
+Feb 28 09:37 : update: updating /Dream lantern (320 kbps).mp3
+Feb 28 09:37 : update: updating /Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3
+Feb 28 09:38 : player: played "Sambomaster - Hajimatteiku Takamatteiku.mp3"
+Feb 28 09:39 : update: updating /Evan King - Vibing in the 20s.mp3
+Feb 28 09:39 : update: updating /Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3
+Feb 28 09:39 : update: updating /keshi - just friends.mp3
+Feb 28 09:40 : update: updating /Khamoshiyan - Arijit Singh (Slowed+Reverb+Lofi) Song Indian Lofi (256kbps).mp3
+Feb 28 09:40 : update: updating /Kina - get you the moon (ft. Snow).mp3
+Feb 28 09:41 : update: updating /Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3
+Feb 28 09:42 : update: updating /Lenny Loops, Hoffy Beats - Caring.mp3
+Feb 28 09:42 : update: updating /Lily.mp3
+Feb 28 09:42 : update: updating /Lost Control.mp3
+Feb 28 09:42 : player: played "Yahan koi nahi (320 kbps).mp3"
+Feb 28 09:43 : update: updating /Ludwig Göransson - The Book of Boba Fett.mp3
+Feb 28 09:43 : update: updating /Ludwig Göransson - The Mandalorian - Мандалорец.mp3
+Feb 28 09:48 : update: updating /Luke Chappell - Hold On (Visualizer) (320 kbps).mp3
+Feb 28 09:49 : update: updating /Lund - Issues.mp3
+Feb 28 09:49 : update: updating /Melanie Martinez - PLAY DATE.mp3
+Feb 28 09:49 : update: updating /mxmtoon - prom dress (official video) (320 kbps).mp3
+Feb 28 09:49 : update: updating /my bad (320 kbps).mp3
+Feb 28 09:50 : update: updating /My Cubicle (320 kbps).mp3
+Feb 28 09:50 : update: updating /Omae Wa Mou (320 kbps).mp3
+Feb 28 09:50 : update: updating /Phir bhi Tumko Chahunga - Sad Version slowed + reverbed + rain+Lofi (128kbps).mp3
+Feb 28 09:51 : update: updating /powfu - death bed.mp3
+Feb 28 09:52 : update: updating /Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3
+Feb 28 09:52 : update: updating /Rie Takahashi - Stay Alive[OST ReZero ed2].mp3
+Feb 28 09:53 : update: updating /Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3
+Feb 28 09:53 : update: updating /Soak - Knock Me Off My Feet.mp3
+Feb 28 09:54 : update: updating /The Kid LAROI, Justin Bieber - STAY.mp3
+Feb 28 09:55 : update: updating /Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3
+Feb 28 09:55 : update: updating /Yahan koi nahi (320 kbps).mp3
+Feb 28 09:55 : update: updating /Zach Sobiech - Clouds.mp3
+Feb 28 09:56 : update: updating /Zach Sobiech and Sammy Brown - Fix Me Up.mp3
+Feb 28 09:56 : update: updating /Zach Sobiech and Sammy Brown - Sandcastles.mp3
+Feb 28 09:56 : update: updating /Passenger - Let Her Go.mp3
+Feb 28 09:56 : update: updating /wacci - Kirameki.mp3
+Feb 28 09:57 : update: updating /Evan King - 20XX.mp3
+Feb 28 10:00 : player: played "Zach Sobiech - Clouds.mp3"
+Feb 28 10:34 : player: played "Zach Sobiech - Clouds.mp3"
+Feb 28 10:38 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Feb 28 10:44 : player: played "Anohana - Secret Base.mp3"
+Feb 28 10:49 : player: played "Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3"
+Feb 28 10:55 : player: played "Khamoshiyan - Arijit Singh (Slowed+Reverb+Lofi) Song Indian Lofi (256kbps).mp3"
+Feb 28 10:57 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Feb 28 11:01 : player: played "Ludwig Göransson - The Mandalorian - Мандалорец.mp3"
+Feb 28 11:04 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Feb 28 11:07 : player: played "powfu - death bed.mp3"
+Feb 28 11:34 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 28 12:59 : player: played "RADWIMPS - Nandemonaiya (English Ver.).mp3"
+Feb 28 13:04 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Feb 28 13:08 : player: played "RADWIMPS - Sparkle.mp3"
+Feb 28 13:10 : player: played "Bag Boy x Trankilo Lo-Fi Remix.mp3"
+Feb 28 13:14 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 28 13:18 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 28 13:22 : player: played "Dil Bechara (2020) - Main Tumhara.mp3"
+Feb 28 13:26 : player: played "Ed Sheeran - I Don't Care (Acoustic) (Acoustic).mp3"
+Feb 28 13:31 : player: played "Evan King - Vibing in the 20s.mp3"
+Feb 28 13:36 : player: played "Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3"
+Feb 28 13:39 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Feb 28 13:41 : player: played "Advait, Yagvik - Befikar.mp3"
+Feb 28 13:44 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Feb 28 13:47 : player: played "Coobie - Always be you (Official lyric video) (320 kbps).mp3"
+Feb 28 13:49 : player: played "Daydream (320 kbps).mp3"
+Feb 28 13:52 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Feb 28 13:58 : player: played "Anohana - Secret Base.mp3"
+Feb 28 14:01 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Feb 28 14:04 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Feb 28 14:08 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Feb 28 14:13 : player: played "C418 - Stranger Think.mp3"
+Feb 28 19:42 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Feb 28 22:33 : player: played "powfu - death bed.mp3"
+Feb 28 22:36 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Feb 28 22:40 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Feb 28 22:44 : player: played "Sambomaster - Hajimatteiku Takamatteiku.mp3"
+Feb 28 22:49 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Feb 28 22:51 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Feb 28 22:54 : player: played "Soak - Knock Me Off My Feet.mp3"
+Mar 01 12:59 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Mar 01 13:03 : player: played "Evan King - Vibing in the 20s.mp3"
+Mar 01 13:05 : player: played "Dream lantern (320 kbps).mp3"
+Mar 01 13:08 : player: played "Do It All for You.mp3"
+Mar 01 13:12 : player: played "RADWIMPS - Sparkle.mp3"
+Mar 01 13:16 : player: played "Boruto Ending 15 「Answers」- Mol-74 download (HQ) (320 kbps).mp3"
+Mar 01 16:51 : player: played "Anohana - Secret Base.mp3"
+Mar 01 16:54 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Mar 01 16:56 : player: played "my bad (320 kbps).mp3"
+Mar 01 16:59 : player: played "powfu - death bed.mp3"
+Mar 01 17:01 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Mar 01 17:09 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Mar 01 17:14 : player: played "'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3"
+Mar 01 17:17 : player: played "Billie Eilish - lovely (with Khalid).mp3"
+Mar 01 17:20 : player: played "Bag Boy x Trankilo Lo-Fi Remix.mp3"
+Mar 01 17:22 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Mar 01 17:25 : player: played "Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3"
+Mar 01 17:31 : player: played "Anohana - Secret Base.mp3"
+Mar 01 17:34 : player: played "B.J. Thomas - Raindrops Keep Falling on My Head.mp3"
+Mar 02 08:27 : update: updating /Dil Bechara (2020) - Main Tumhara.mp3
+Mar 02 12:42 : player: played "Dream lantern (320 kbps).mp3"
+Mar 02 12:44 : player: played "keshi - just friends.mp3"
+Mar 02 13:48 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Mar 02 13:53 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Mar 02 13:57 : player: played "wacci - Kirameki.mp3"
+Mar 02 13:58 : player: played "Anohana - Secret Base.mp3"
+Mar 02 14:09 : player: played "Anohana - Secret Base.mp3"
+Mar 02 14:10 : player: played "Anohana - Secret Base.mp3"
+Mar 02 14:20 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Mar 02 14:24 : player: played "Passenger - Let Her Go.mp3"
+Mar 02 17:42 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Mar 02 17:45 : player: played "Lorne Balfe - Fight Club.mp3"
+Mar 02 17:47 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Mar 02 17:49 : player: played "keshi - just friends.mp3"
+Mar 02 17:53 : player: played "Lund - F ck Love.mp3"
+Mar 02 17:56 : player: played "Lund - Issues.mp3"
+Mar 02 17:59 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Mar 02 18:04 : player: played "mxmtoon - prom dress (official video) (320 kbps).mp3"
+Mar 02 18:07 : player: played "my bad (320 kbps).mp3"
+Mar 02 18:09 : player: played "My Cubicle (320 kbps).mp3"
+Mar 02 18:11 : player: played "Omae Wa Mou (320 kbps).mp3"
+Mar 03 15:33 : player: played "powfu - death bed.mp3"
+Mar 03 15:36 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Mar 04 11:33 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Mar 04 11:37 : player: played "Passenger - Let Her Go.mp3"
+Mar 04 11:42 : player: played "'Kahin to hogi wo' but you're dreaming that you're on a date with your crush.. (320 kbps).mp3"
+Mar 04 11:44 : player: played "Lorne Balfe - Fight Club.mp3"
+Mar 04 11:47 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Mar 04 11:49 : player: played "keshi - just friends.mp3"
+Mar 04 12:14 : player: played "Lund - F ck Love.mp3"
+Mar 04 12:17 : player: played "Lund - Issues.mp3"
+Mar 04 13:28 : player: played "my bad (320 kbps).mp3"
+Mar 04 13:30 : player: played "My Cubicle (320 kbps).mp3"
+Mar 04 13:32 : player: played "Omae Wa Mou (320 kbps).mp3"
+Mar 04 13:39 : exception: No such directory
+Mar 04 13:39 : exception: Failed to open '/home/lostancient/.mpd/playlists/10.m3u': No such file or directory
+Mar 04 13:39 : exception: No such playlist
+Mar 04 13:39 : player: played "RADWIMPS - Nandemonaiya (English Ver.).mp3"
+Mar 05 10:26 : player: played "RADWIMPS - Nandemonaiya (English Ver.).mp3"
+Mar 05 10:28 : player: played "keshi - just friends.mp3"
+Mar 05 10:30 : player: played "Powfu, Sarcastic Sounds, Rxseboy - ill come back to you (Official Audio) (320 kbps).mp3"
+Mar 05 10:34 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Mar 05 10:39 : player: played "Sambomaster - Hajimatteiku Takamatteiku.mp3"
+Mar 05 10:41 : player: played "Snøw & Teqkoi - I'm Not Enough And I'm Sorry (320 kbps).mp3"
+Mar 05 10:44 : player: played "Soak - Knock Me Off My Feet.mp3"
+Mar 05 10:46 : player: played "The Kid LAROI, Justin Bieber - STAY.mp3"
+Mar 05 10:51 : player: played "Wavin' Flag - (DJ Topeng Remix) (K'NAAN) (Lyrics) Tiktok Song When I Get Older I Will Be Stronger (320 kbps).mp3"
+Mar 05 10:55 : player: played "Yahan koi nahi (320 kbps).mp3"
+Mar 05 10:59 : player: played "Zach Sobiech - Clouds.mp3"
+Mar 05 11:04 : player: played "Zach Sobiech and Sammy Brown - Fix Me Up.mp3"
+Mar 05 11:08 : player: played "Zach Sobiech and Sammy Brown - Sandcastles.mp3"
+Mar 05 11:13 : player: played "wacci - Kirameki.mp3"
+Mar 05 12:17 : player: played "Shiloh Dynasty - I know you so well.mp3"
+Mar 05 12:23 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Mar 05 12:27 : player: played "RADWIMPS - Sparkle.mp3"
+Mar 05 12:30 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Mar 05 12:36 : player: played "Lund - F ck Love.mp3"
+Mar 05 12:42 : player: played "Lund - Issues.mp3"
+Mar 05 12:54 : player: played "my bad (320 kbps).mp3"
+Mar 05 15:13 : player: played "'Tum gaye ho kyun raat baaki hai' but you just can't stop thinking of her while it's raining.. (320 kbps).mp3"
+Mar 05 15:15 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Mar 05 15:18 : player: played "Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3"
+Mar 05 15:21 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Mar 05 15:27 : player: played "Anohana - Secret Base.mp3"
+Mar 05 15:31 : player: played "Bag Boy x Trankilo Lo-Fi Remix.mp3"
+Mar 05 15:41 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Mar 06 16:00 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Mar 06 16:03 : player: played "Alan Walker - I Don't Wanna Go (Official Lyric Video).mp3"
+Mar 06 16:05 : player: played "Alec Benjamin - Let Me Down Slowly.mp3"
+Mar 07 11:07 : player: played "Bag Boy x Trankilo Lo-Fi Remix.mp3"
+Mar 07 11:10 : player: played "Ae Dil Hai Mushkil X Can We Kiss Forever (Lyrics video) (320 kbps).mp3"
+Mar 07 11:19 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Mar 07 11:33 : player: played "Advait x Aman ~ Tu Hai Kahaan (320 kbps).mp3"
+Mar 07 11:35 : player: played "keshi - just friends.mp3"
+Mar 07 12:01 : player: played "Hawayein [Slowed and Reverb] Arijit Singh Lyrics Audio (320 kbps).mp3"
+Mar 07 17:00 : player: played "Khamoshiyan - Arijit Singh (Slowed+Reverb+Lofi) Song Indian Lofi (256kbps).mp3"
+Mar 07 17:03 : player: played "Kina - get you the moon (ft. Snow).mp3"
+Mar 07 17:06 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Mar 07 17:11 : player: played "Lily.mp3"
+Mar 07 17:14 : player: played "Lost Control.mp3"
+Mar 07 17:18 : player: played "Luke Chappell - Hold On (Visualizer) (320 kbps).mp3"
+Mar 07 17:21 : player: played "Lund - F ck Love.mp3"
+Mar 07 17:24 : player: played "Lund - Issues.mp3"
+Mar 07 17:43 : player: played "Melanie Martinez - PLAY DATE.mp3"
+Mar 08 09:38 : player: played "mxmtoon - prom dress (official video) (320 kbps).mp3"
+Mar 08 09:40 : player: played "my bad (320 kbps).mp3"
+Mar 08 16:54 : player: played "My Cubicle (320 kbps).mp3"
+Mar 08 20:27 : player: played "Sambomaster - Hajimatteiku Takamatteiku.mp3"
+Mar 08 20:48 : player: played "Sambomaster - Hajimatteiku Takamatteiku.mp3"
+Mar 08 20:51 : player: played "Lund - Issues.mp3"
+Mar 08 20:54 : player: played "Lily.mp3"
+Mar 08 20:59 : player: played "Kreisler - Liebesleid (Love's Sorrow) (Rachmaninoff).mp3"
+Mar 08 21:01 : player: played "Lenny Loops, Hoffy Beats - Caring.mp3"
+Mar 08 21:04 : player: played "Bag Boy x Trankilo Lo-Fi Remix.mp3"
+Mar 08 21:08 : player: played "Evan King - Vibing in the 20s.mp3"
+Mar 08 21:11 : player: played "Advait x Aman - Kaha Thikana (Official Lyric Video) (320 kbps).mp3"
+Mar 08 21:15 : player: played "Rie Takahashi - Stay Alive[OST ReZero ed2].mp3"
+Mar 08 21:21 : player: played "Galileo Galilei - Aoi Shiori (葵栞).mp3"
+Mar 09 17:21 : update: added /OneRepublic - Didn’t I.mp3
+Mar 09 17:21 : update: added /Tevvez - Parallel Universe - Let Me Down Slowly Remix.mp3
+Mar 09 17:21 : update: added /Tevvez - Legend Zyzz hardstyle.mp3
+Mar 09 17:21 : update: added /Kho Gaye Hum Kahan.mp3
+Mar 09 17:21 : update: added /Advait, Nuke ~ Teri Yaadein Kare Mujhe Mashhoor (320 kbps).mp3
+Mar 09 17:22 : update: updating /Advait, Nuke ~ Teri Yaadein Kare Mujhe Mashhoor (320 kbps).mp3
+Mar 09 17:24 : player: played "Advait, Nuke ~ Teri Yaadein Kare Mujhe Mashhoor (320 kbps).mp3"
+Mar 09 17:26 : update: updating /Tevvez - Legend Zyzz hardstyle.mp3
+Mar 09 17:27 : update: updating /Tevvez - Parallel Universe - Let Me Down Slowly Remix.mp3
+Mar 09 17:27 : player: played "Tevvez - Legend Zyzz hardstyle.mp3"
+Mar 09 17:30 : player: played "Tevvez - Parallel Universe - Let Me Down Slowly Remix.mp3"
