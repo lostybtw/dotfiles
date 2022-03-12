@@ -1,7 +1,0 @@
-
-xmonad.hs:200:21: warning: [-Wdeprecations]
-    In the use of ‘spacing’ (imported from XMonad.Layout.Spacing):
-    Deprecated: "Use spacingRaw instead."
-    |
-200 |             tiled = spacing 3 $ Tall nmaster delta ratio  
-    |                     ^^^^^^^
