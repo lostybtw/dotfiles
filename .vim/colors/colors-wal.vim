@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/lostancient/dotfiles/wallpapers/Koe_No_Katachi.png"
+let background = "#030613"
+let foreground = "#c9bdad"
+let cursor     = "#c9bdad"
+
+" Colors
+let color0  = "#030613"
+let color1  = "#1B4257"
+let color2  = "#2D4857"
+let color3  = "#365662"
+let color4  = "#575A5C"
+let color5  = "#6F6E6C"
+let color6  = "#897667"
+let color7  = "#c9bdad"
+let color8  = "#8c8479"
+let color9  = "#1B4257"
+let color10 = "#2D4857"
+let color11 = "#365662"
+let color12 = "#575A5C"
+let color13 = "#6F6E6C"
+let color14 = "#897667"
+let color15 = "#c9bdad"

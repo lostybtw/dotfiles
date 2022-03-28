@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/lostancient/.config/fish'
+let g:netrw_dirhist_9='/home/lostancient/.config/fish/conf.d'
+let g:netrw_dirhist_8='/home/lostancient/.config/alacritty'
+let g:netrw_dirhist_7='/home/lostancient/.config/gtk-2.0'
+let g:netrw_dirhist_6='/home/lostancient/repos/TermCord'
+let g:netrw_dirhist_5='/home/lostancient/repos'
+let g:netrw_dirhist_4='/home/lostancient/repos/html'
+let g:netrw_dirhist_3='/home/lostancient/repos'
+let g:netrw_dirhist_2='/home/lostancient/repos/rpc_for_mpd'
+let g:netrw_dirhist_1='/home/lostancient/repos/OpenGL'
