@@ -3,7 +3,7 @@ xmonad.hs:209:21: warning: [-Wdeprecations]
     In the use of ‘spacing’ (imported from XMonad.Layout.Spacing):
     Deprecated: "Use spacingRaw instead."
     |
-209 |             tiled = spacing 3 $ gaps[(U,20),(D,20),(L,20),(R,20)] $ Tall nmaster delta ratio  
+209 |             tiled = spacing 3 $ gaps[(U,10),(D,10),(L,10),(R,10)] $ Tall nmaster delta ratio  
     |                     ^^^^^^^
 
 xmonad.hs:210:27: warning: [-Wdeprecations]

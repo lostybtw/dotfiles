@@ -60,7 +60,7 @@ myWorkspaces    = ["clutter","cli&productivity + emacs","media","class","etc","5
 -- Border colors for unfocused and focused windows, respectively.
 --
 myNormalBorderColor  = "#000000"
-myFocusedBorderColor = "#CCCCCC"
+myFocusedBorderColor = "#bec4ce"
 
 ------------------------------------------------------------------------
 -- Key bindings. Add, modify or remove key bindings here.
@@ -203,10 +203,10 @@ uniformBorder i = Border i i i i
 myLayout = spacingRaw True (Border 10 10 10 10) True (Border 10 10 10 10) True  
 
     
-     $avoidStruts( tiled ||| Mirror tiled ||| avoidStruts(noBorders Full))
+     $avoidStruts( tiled ||| Mirror tiled ||| noBorders Full)
         where
      -- default tiling algorithm partitions the screen into two panes
-            tiled = spacing 3 $ gaps[(U,20),(D,20),(L,20),(R,20)] $ Tall nmaster delta ratio  
+            tiled = spacing 3 $ gaps[(U,10),(D,10),(L,10),(R,10)] $ Tall nmaster delta ratio  
             float_tiled = spacing 30 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Tall nmaster delta ratio 
             float_mirror = spacing 30 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Mirror tiled
      -- The default number of windows in the master pane
