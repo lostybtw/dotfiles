@@ -3,8 +3,8 @@ Config {
    -- appearance
      font =         "xft:Bitstream Vera Sans Mono:size=11:bold:antialias=true"
     , additionalFonts = [ "xft:SourceHanSansJP-Medium:pixelsize=13" ]
-    , fgColor =      "#fee1c4"
-    , bgColor =      "#020101"
+    , fgColor =      "#FFFFFF"
+    , bgColor =      "#5A45A3"
     , alpha   =  0
     , position = Static { xpos = 25 , ypos = 10, width = 1800, height = 30 }
 

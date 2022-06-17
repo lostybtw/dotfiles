@@ -60,7 +60,7 @@ myWorkspaces    = ["clutter","cli&productivity + emacs","media","class","etc","5
 -- Border colors for unfocused and focused windows, respectively.
 --
 myNormalBorderColor  = "#000000"
-myFocusedBorderColor = "#bec4ce"
+myFocusedBorderColor = "#FFFFFF"
 
 ------------------------------------------------------------------------
 -- Key bindings. Add, modify or remove key bindings here.
@@ -73,9 +73,13 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((0,                    xF86XK_AudioPlay), spawn "mpc toggle")
     , ((0,                    xF86XK_AudioPrev), spawn "mpc prev")
     , ((0,                    xF86XK_AudioNext), spawn "mpc next")
-    , ((0,                    xF86XK_AudioRaiseVolume), spawn "pactl set-sink-volume 0 +10%")
-    , ((0,                    xF86XK_AudioLowerVolume), spawn "pactl set-sink-volume 0 -10%")
-    -- launch dmenu
+    , ((0,                    xF86XK_AudioRaiseVolume), spawn "pactl set-sink-volume 1 +10%")
+    , ((0,                    xF86XK_AudioLowerVolume), spawn "pactl set-sink-volume 1 -10%")
+    , ((0,                    xF86XK_MonBrightnessUp ), spawn "xbacklight -inc 10")
+    , ((0,                   xF86XK_MonBrightnessDown), spawn "xbacklight -dec 10")    
+
+
+-- launch dmenu
     , ((modm,               xK_p     ), spawn "dmenu_run -l 20")
 
     -- launch gmrun
@@ -200,15 +204,15 @@ myMouseBindings (XConfig {XMonad.modMask = modm}) = M.fromList $
 uniformBorder :: Integer -> Border
 uniformBorder i = Border i i i i
 
-myLayout = spacingRaw True (Border 10 10 10 10) True (Border 10 10 10 10) True  
+myLayout = spacingRaw True (Border 0 0 0 0) True (Border 0 0 0 0) True  
 
     
      $avoidStruts( tiled ||| Mirror tiled ||| noBorders Full)
         where
      -- default tiling algorithm partitions the screen into two panes
-            tiled = spacing 3 $ gaps[(U,10),(D,10),(L,10),(R,10)] $ Tall nmaster delta ratio  
-            float_tiled = spacing 30 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Tall nmaster delta ratio 
-            float_mirror = spacing 30 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Mirror tiled
+            tiled = spacing 0 $ gaps[(U,0),(D,0),(L,0),(R,0)] $ Tall nmaster delta ratio  
+            float_tiled = spacing 0 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Tall nmaster delta ratio 
+            float_mirror = spacing 0 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Mirror tiled
      -- The default number of windows in the master pane
             nmaster = 1
 

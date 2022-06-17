@@ -40,6 +40,7 @@ call plug#begin('~/.vim/plugged')
     Plug 'ycm-core/YouCompleteMe'                      " Completion
 "{{ Junegunn Choi Plugins }}
     Plug 'junegunn/vim-emoji'                          " Vim needs emojis!
+    Plug 'iamcco/markdown-preview.vim'
 
 call plug#end()
 

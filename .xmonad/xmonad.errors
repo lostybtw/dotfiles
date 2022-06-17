@@ -1,21 +1,21 @@
 
-xmonad.hs:209:21: warning: [-Wdeprecations]
+xmonad.hs:213:21: warning: [-Wdeprecations]
     In the use of ‘spacing’ (imported from XMonad.Layout.Spacing):
     Deprecated: "Use spacingRaw instead."
     |
-209 |             tiled = spacing 3 $ gaps[(U,10),(D,10),(L,10),(R,10)] $ Tall nmaster delta ratio  
+213 |             tiled = spacing 0 $ gaps[(U,0),(D,0),(L,0),(R,0)] $ Tall nmaster delta ratio  
     |                     ^^^^^^^
 
-xmonad.hs:210:27: warning: [-Wdeprecations]
+xmonad.hs:214:27: warning: [-Wdeprecations]
     In the use of ‘spacing’ (imported from XMonad.Layout.Spacing):
     Deprecated: "Use spacingRaw instead."
     |
-210 |             float_tiled = spacing 30 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Tall nmaster delta ratio 
+214 |             float_tiled = spacing 0 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Tall nmaster delta ratio 
     |                           ^^^^^^^
 
-xmonad.hs:211:28: warning: [-Wdeprecations]
+xmonad.hs:215:28: warning: [-Wdeprecations]
     In the use of ‘spacing’ (imported from XMonad.Layout.Spacing):
     Deprecated: "Use spacingRaw instead."
     |
-211 |             float_mirror = spacing 30 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Mirror tiled
+215 |             float_mirror = spacing 0 $ gaps[(U,30),(D,30),(L,30),(R,30)] $ Mirror tiled
     |                            ^^^^^^^
